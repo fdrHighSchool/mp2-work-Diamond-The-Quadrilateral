@@ -9,29 +9,29 @@
       } // end inner if statement
    } // end outer if statement
   ```
-  * **YOUR WRITING HERE**
+  * if(year%4 == 0 && year%100 !=0){
 
 
 2. Label each as either correct or incorrect syntax. If incorrect, rewrite below:
   * if (x == y) {
 
-    * **YOUR WRITING HERE**
+    * correct
 
   * if [x == 10] {
 
-    * **YOUR WRITING HERE**
+    * (x == 10) {
 
   * if x = 10 then {
 
-    * **YOUR WRITING HERE**
+    * if(x = 10){ // then perform vvv
 
   * if (x equals 42) {
 
-    * **YOUR WRITING HERE**
+    * if(x == 42){
 
   * if (x => y) {
 
-    * **YOUR WRITING HERE**
+    * if(x >= y){
 
 
 3. Fix the error in the code below:
@@ -40,9 +40,14 @@
   Scanner console = new Scanner(System.in);
   System.out.print("What is your favorite color? ");
   String name = console.next();
-  if (name == "blue") {
+  if (name = "blue") {
       System.out.println("Mine, too!");
   }
   ```
 
-  * **YOUR WRITING HERE**
+  *  Scanner console = new Scanner(System.in);
+  System.out.println("What is your favorite color? ");
+  String name = console.nextString();
+  if (name.equals("blue")) {
+      System.out.println("Mine, too!");
+  }
