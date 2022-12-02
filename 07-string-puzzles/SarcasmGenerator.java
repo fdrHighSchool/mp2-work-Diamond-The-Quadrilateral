@@ -1,4 +1,4 @@
-class Main {
+class SarcasmGenerator {
   public static void main(String[] args) {
     System.out.println(sarcasmGenerator("Hello World"));
   }
@@ -15,4 +15,4 @@ class Main {
   }// end for loop
   return newString;  
   }// end sarcGen
-}// end main class
+}// end SarcasmGenerator class
