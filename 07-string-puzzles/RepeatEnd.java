@@ -10,5 +10,5 @@ class RepeatEnd {
     }
 
     return repped;
-  }// end repeatEnd
-}// end main
+  }// end repeatEnd MO
+}// end RepeatEnd Class
