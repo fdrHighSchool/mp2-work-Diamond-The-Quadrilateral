@@ -13,4 +13,4 @@ class ConCat {
     }
     return conword;
   }// end concat
-}// end main class
+}// end ConCat class
