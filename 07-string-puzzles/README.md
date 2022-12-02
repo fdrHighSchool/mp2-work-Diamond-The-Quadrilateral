@@ -3,16 +3,16 @@
 
 1. *In your own words*, discuss what each String method does:
   * `.substring(a)`
-    * **YOUR WRITING HERE**
+    * grab the strings from a to the end
 
   * `.substring(a, b)`
-    * **YOUR WRITING HERE**
+    * grab string from a to b not including b
 
   * `.indexOf(str)`
-    * **YOUR WRITING HERE**
+    * find the position of str
 
   * `.equals(str)`
-    * **YOUR WRITING HERE**
+    * Used in if statements to compare two strings (like ==)
 
 
 2. *In your own words*, discuss what the following `for` loop accomplishes for `String s`:
@@ -21,4 +21,5 @@ for(int i = 0; i < s.length(); i++) {
       // DO STUFF
 }
 ```
-  * **YOUR WRITING HERE**
+  * Do stuff the same number of times as how long a letter is
+  if String s is 5 letters long the for will repeat 5 times
