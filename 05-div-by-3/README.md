@@ -7,9 +7,9 @@ Think of the following method header:
 `public static boolean isPrime(int num)`
 
   * public static boolean isPrime(int num){
-  boolean prime ="true";
-  num = Math.abs(num)
-  if( num/2 == 0 || num/3 == 0|| num/5 ==0 || num/7 ==0){
-  prime = "false"
-  }
-  return prime;
+  *boolean prime ="true";
+  *num = Math.abs(num)
+  *if( num/2 == 0 || num/3 == 0|| num/5 ==0 || num/7 ==0){
+  *prime = "false"
+  *}
+  *return prime;
