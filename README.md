@@ -2,9 +2,9 @@
 ## fall22-mp2-work
 
 
-### Last Name:  
-### First Name:
-### GitHub Username:
+### Last Name:  Wang
+### First Name: Diamond
+### GitHub Username: Diamond-The-Quadrilateral
 
 ---
 #### General Workflow:
